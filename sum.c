@@ -11,6 +11,6 @@ int main()
     printf("enter the value of b : ");
     scanf("%d",&b);
     int sum=add(a,b);
-    printf("The sum of %a , %d is : ",sum);
+    printf("The sum of is : ",sum);
     return 0;
 }
